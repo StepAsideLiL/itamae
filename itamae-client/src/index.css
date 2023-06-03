@@ -1,0 +1,17 @@
+@import url("https://fonts.cdnfonts.com/css/katana?styles=5826,5827,5828");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.katana {
+  font-family: "Katana", sans-serif;
+}
+
+.katana-shadow {
+  font-family: "Katana Shadow", sans-serif;
+}
+
+.katana-italic {
+  font-family: "Katana Italic", sans-serif;
+}

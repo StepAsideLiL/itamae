@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "recipe_name": "Miso-glazed Salmon",
+    "thumbnail": "https://thumbs2.imgbox.com/45/28/h7wSFOOv_t.png",
+    "ingredients": [
+      "Salmon fillet",
+      "Miso paste",
+      "Soy sauce",
+      "Rice vinegar",
+      "Brown sugar",
+      "Sesame oil"
+    ],
+    "cooking_method": "1. Preheat oven to 400°F. 2. In a small bowl, whisk together miso paste, soy sauce, rice vinegar, brown sugar, and sesame oil. 3. Place salmon on a baking sheet lined with parchment paper. 4. Brush miso mixture over salmon. 5. Bake for 10-12 minutes, or until salmon is cooked through.",
+    "rating": 4.5,
+    "chef_id": 1
+  },
+  {
+    "id": 2,
+    "recipe_name": "Chicken Teriyaki",
+    "thumbnail": "https://thumbs2.imgbox.com/28/b4/CMl2AH4n_t.png",
+    "ingredients": [
+      "Chicken thighs",
+      "Soy sauce",
+      "Mirin",
+      "Sake",
+      "Brown sugar",
+      "Garlic",
+      "Ginger"
+    ],
+    "cooking_method": "1. In a bowl, whisk together soy sauce, mirin, sake, brown sugar, garlic, and ginger. 2. Add chicken thighs to the bowl and marinate for 30 minutes. 3. Heat a pan over medium-high heat and add chicken and the marinade. 4. Cook chicken for 6-8 minutes on each side or until fully cooked.",
+    "rating": 4.2,
+    "chef_id": 1
+  },
+  {
+    "id": 3,
+    "recipe_name": "Vegetable Tempura",
+    "thumbnail": "https://thumbs2.imgbox.com/a4/00/eXnG9siW_t.png",
+    "ingredients": [
+      "Sweet potato",
+      "Carrot",
+      "Broccoli",
+      "Green beans",
+      "Flour",
+      "Cornstarch",
+      "Ice water"
+    ],
+    "cooking_method": "1. Cut sweet potato, carrot, broccoli, and green beans into small pieces. 2. In a bowl, whisk together flour, cornstarch, and ice water. 3. Heat oil in a deep pan over medium-high heat. 4. Dip vegetables into batter and fry in oil until golden brown.",
+    "rating": 4.0,
+    "chef_id": 1
+  },
+  {
+    "id": 4,
+    "recipe_name": "Gyoza",
+    "thumbnail": "https://thumbs2.imgbox.com/83/d9/P3Lj86gc_t.png",
+    "ingredients": [
+      "Ground pork",
+      "Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy sauce",
+      "Sesame oil",
+      "Gyoza wrappers"
+    ],
+    "cooking_method": "1. In a large bowl, mix together ground pork, finely chopped cabbage, minced garlic and ginger, soy sauce, and sesame oil. 2. Place a spoonful of the mixture onto a gyoza wrapper, wet the edges with water, and fold in half. 3. Press the edges to seal the gyoza. 4. Heat a large skillet over medium-high heat and add oil. 5. Add the gyoza to the skillet and cook until the bottoms are golden brown. 6. Pour water into the skillet, cover, and cook for a few minutes until the water has evaporated and the gyoza are cooked through.",
+    "rating": 4.7,
+    "chef_id": 1
+  },
+  {
+    "id": 5,
+    "recipe_name": "Miso Soup with Tofu and Wakame",
+    "thumbnail": "https://thumbs2.imgbox.com/a8/0d/AKmtAK0F_t.png",
+    "ingredients": [
+      "Dashi",
+      "Miso paste",
+      "Tofu",
+      "Wakame",
+      "Green onions",
+      "Soy sauce",
+      "Mirin"
+    ],
+    "cooking_method": "1. In a pot, heat dashi over medium heat. 2. Add miso paste and stir until dissolved. 3. Add tofu and wakame and simmer for 1-2 minutes. 4. Add sliced green onions and a splash of soy sauce and mirin to taste.",
+    "rating": 4.5,
+    "chef_id": 2
+  },
+  {
+    "id": 6,
+    "recipe_name": "Yakitori",
+    "thumbnail": "https://thumbs2.imgbox.com/0d/33/xvaLF6i7_t.png",
+    "ingredients": [
+      "Chicken thighs",
+      "Scallions",
+      "Sake",
+      "Mirin",
+      "Soy sauce",
+      "Sugar",
+      "Bamboo skewers"
+    ],
+    "cooking_method": "1. Cut chicken thighs into bite-sized pieces and slice scallions into 1-inch pieces. 2. Thread the chicken and scallions onto bamboo skewers. 3. In a small saucepan, mix sake, mirin, soy sauce, and sugar and heat over medium heat until sugar dissolves. 4. Heat grill or broiler to high. 5. Brush the sauce onto the chicken skewers and grill or broil until cooked through, turning occasionally and brushing with more sauce.",
+    "rating": 4.2,
+    "chef_id": 2
+  },
+  {
+    "id": 7,
+    "recipe_name": "Okonomiyaki",
+    "thumbnail": "https://thumbs2.imgbox.com/6b/a8/mCfbt0Ug_t.png",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Cabbage",
+      "Green onions",
+      "Pork belly",
+      "Tenkasu",
+      "Okonomiyaki sauce"
+    ],
+    "cooking_method": "1. In a large bowl, whisk together flour and eggs until smooth. 2. Add finely shredded cabbage, sliced green onions, chopped pork belly, and tenkasu (crunchy bits of deep-fried tempura batter) to the bowl and mix well. 3. Heat a large skillet over medium heat and add oil. 4. Pour the batter into the skillet and cook until the bottom is golden brown. 5. Flip the okonomiyaki and cook until the other side is golden brown. 6. Drizzle with okonomiyaki sauce and mayonnaise.",
+    "rating": 4.6,
+    "chef_id": 2
+  },
+  {
+    "id": 8,
+    "recipe_name": "Gyudon",
+    "thumbnail": "https://thumbs2.imgbox.com/51/49/w1YUCamZ_t.png",
+    "ingredients": [
+      "Thinly sliced beef",
+      "Onion",
+      "Soy sauce",
+      "Mirin",
+      "Sake",
+      "Sugar",
+      "Green onion"
+    ],
+    "cooking_method": "1. Heat a large skillet over medium heat and add thinly sliced onion. 2. Once the onion is soft, add thinly sliced beef and cook until browned. 3. Add soy sauce, mirin, sake, and sugar to the skillet and bring to a simmer. 4. Reduce the heat and cook until the liquid has reduced and thickened. 5. Serve over rice and garnish with chopped green onions.",
+    "rating": 4.8,
+    "chef_id": 3
+  },
+  {
+    "id": 9,
+    "recipe_name": "Tempura",
+    "thumbnail": "https://thumbs2.imgbox.com/7f/18/Es6onOaZ_t.png",
+    "ingredients": [
+      "Shrimp",
+      "Flour",
+      "Egg",
+      "Water",
+      "Ice cubes",
+      "Dipping sauce",
+      "Vegetable oil"
+    ],
+    "cooking_method": "1. Heat vegetable oil in a deep pot or fryer. 2. In a large bowl, mix flour, egg, and ice-cold water until just combined (do not overmix). 3. Dip shrimp and vegetables into the batter and shake off any excess. 4. Fry in the hot oil until golden brown and crispy. 5. Serve immediately with dipping sauce.",
+    "rating": 4.7,
+    "chef_id": 3
+  },
+  {
+    "id": 10,
+    "recipe_name": "Takoyaki",
+    "thumbnail": "https://thumbs2.imgbox.com/1d/cd/5xuI0AZe_t.png",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Water",
+      "Dashi",
+      "Octopus",
+      "Green onion",
+      "Takoyaki sauce"
+    ],
+    "cooking_method": "1. Mix flour, egg, water, and dashi to make batter. 2. Pour batter into a takoyaki pan and add diced octopus and chopped green onion to each well. 3. Cook until the edges start to set, then use a pick to flip the takoyaki balls over. 4. Continue cooking until the takoyaki are golden brown and cooked through. 5. Serve with takoyaki sauce and mayonnaise.",
+    "rating": 4.9,
+    "chef_id": 3
+  },
+  {
+    "id": 11,
+    "recipe_name": "Karaage",
+    "thumbnail": "https://thumbs2.imgbox.com/9a/2e/WQQPlTJb_t.png",
+    "ingredients": [
+      "Chicken thighs",
+      "Soy sauce",
+      "Sake",
+      "Garlic",
+      "Ginger",
+      "Flour",
+      "Potato starch"
+    ],
+    "cooking_method": "1. Mix soy sauce, sake, minced garlic, and grated ginger in a bowl. 2. Cut chicken thighs into bite-sized pieces and marinate in the mixture for at least 30 minutes. 3. Mix flour and potato starch in a separate bowl. 4. Coat the marinated chicken in the flour mixture. 5. Deep fry until golden brown and cooked through. 6. Serve with lemon wedges and mayonnaise.",
+    "rating": 4.7,
+    "chef_id": 3
+  },
+  {
+    "id": 12,
+    "recipe_name": "Yakiniku",
+    "thumbnail": "https://thumbs2.imgbox.com/46/37/iEBgnPQ3_t.png",
+    "ingredients": [
+      "Beef",
+      "Soy sauce",
+      "Sake",
+      "Sugar",
+      "Garlic",
+      "Sesame oil",
+      "Green onion"
+    ],
+    "cooking_method": "1. Cut beef into thin slices and marinate in soy sauce, sake, sugar, minced garlic, and sesame oil for at least 30 minutes. 2. Heat a grill or skillet over high heat. 3. Cook the marinated beef for a few minutes on each side until browned and cooked through. 4. Serve with chopped green onion and rice.",
+    "rating": 4.8,
+    "chef_id": 4
+  },
+  {
+    "id": 13,
+    "recipe_name": "Okonomiyaki",
+    "thumbnail": "https://thumbs2.imgbox.com/1d/71/l316ztW2_t.png",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Cabbage",
+      "Green onion",
+      "Pork belly",
+      "Tenkasu (tempura bits)",
+      "Okonomiyaki sauce"
+    ],
+    "cooking_method": "1. Mix flour, egg, and water to make batter. 2. Add shredded cabbage, chopped green onion, sliced pork belly, and tenkasu to the batter. 3. Pour the mixture onto a hot griddle or frying pan and cook until the bottom is golden brown. 4. Flip the okonomiyaki and cook the other side until golden brown. 5. Serve with okonomiyaki sauce and mayonnaise.",
+    "rating": 4.7,
+    "chef_id": 4
+  },
+  {
+    "id": 14,
+    "recipe_name": "Takoyaki",
+    "thumbnail": "https://thumbs2.imgbox.com/f0/f2/DkC0NRm5_t.png",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Dashi",
+      "Octopus",
+      "Green onion",
+      "Tenkasu (tempura bits)",
+      "Takoyaki sauce"
+    ],
+    "cooking_method": "1. Mix flour, egg, and dashi to make batter. 2. Add diced cooked octopus, chopped green onion, and tenkasu to the batter. 3. Pour the mixture into a takoyaki pan with round molds. 4. Cook the takoyaki on the pan, turning them with a pick until they are golden brown on all sides. 5. Serve with takoyaki sauce, mayonnaise, and bonito flakes.",
+    "rating": 4.6,
+    "chef_id": 4
+  },
+  {
+    "id": 15,
+    "recipe_name": "Oyakodon",
+    "thumbnail": "https://thumbs2.imgbox.com/8f/59/eWFXBDHi_t.png",
+    "ingredients": [
+      "Chicken",
+      "Egg",
+      "Onion",
+      "Dashi",
+      "Soy sauce",
+      "Mirin",
+      "Green onion"
+    ],
+    "cooking_method": "1. Slice chicken and onion. 2. In a pan, cook the chicken and onion with dashi, soy sauce, and mirin until the chicken is cooked through and the onion is soft. 3. Beat eggs in a bowl and pour over the chicken and onion mixture in the pan. 4. Cover the pan and cook until the eggs are set. 5. Serve over rice and garnish with green onion.",
+    "rating": 4.8,
+    "chef_id": 5
+  },
+  {
+    "id": 16,
+    "recipe_name": "Kitsune Udon",
+    "thumbnail": "https://thumbs2.imgbox.com/27/49/uavOyqQl_t.png",
+    "ingredients": [
+      "Udon noodles",
+      "Dashi",
+      "Soy sauce",
+      "Mirin",
+      "Aburaage (fried tofu)",
+      "Green onion",
+      "Fish cake"
+    ],
+    "cooking_method": "1. Cook udon noodles according to package instructions. 2. In a pot, heat dashi, soy sauce, and mirin. 3. Add sliced aburaage to the pot and simmer until the aburaage is soft. 4. Serve the udon noodles in a bowl and pour the hot broth over them. 5. Garnish with sliced green onion and fish cake.",
+    "rating": 4.5,
+    "chef_id": 5
+  },
+  {
+    "id": 17,
+    "recipe_name": "Nikujaga",
+    "thumbnail": "https://thumbs2.imgbox.com/8a/5c/kHPjjX1o_t.png",
+    "ingredients": [
+      "Thinly sliced beef",
+      "Potatoes",
+      "Onion",
+      "Soy sauce",
+      "Mirin",
+      "Sugar",
+      "Dashi"
+    ],
+    "cooking_method": "1. In a pot, sauté thinly sliced onion until translucent. 2. Add thinly sliced beef to the pot and cook until the beef is browned. 3. Add sliced potatoes to the pot along with dashi, soy sauce, mirin, and sugar. 4. Simmer until the potatoes are cooked through. 5. Serve hot with rice.",
+    "rating": 4.2,
+    "chef_id": 5
+  },
+  {
+    "id": 18,
+    "recipe_name": "Katsudon",
+    "thumbnail": "https://thumbs2.imgbox.com/46/c4/LpEHfenV_t.png",
+    "ingredients": [
+      "Pork cutlet",
+      "Egg",
+      "Onion",
+      "Dashi",
+      "Mirin",
+      "Soy sauce",
+      "Rice"
+    ],
+    "cooking_method": "1. In a bowl, whisk eggs and set aside. 2. Heat oil in a pan and sauté sliced onion until translucent. 3. Add pork cutlet to the pan and cook until both sides are browned. 4. Pour dashi, soy sauce, and mirin into the pan and let it simmer. 5. Pour the beaten egg into the pan and let it cook. 6. Serve over hot rice.",
+    "rating": 4.6,
+    "chef_id": 6
+  },
+  {
+    "id": 19,
+    "recipe_name": "Buta no kakuni",
+    "thumbnail": "https://thumbs2.imgbox.com/31/9f/flCg6LQC_t.png",
+    "ingredients": [
+      "Pork belly",
+      "Soy sauce",
+      "Mirin",
+      "Sake",
+      "Sugar",
+      "Green onion",
+      "Ginger"
+    ],
+    "cooking_method": "1. Cut the pork belly into large pieces and blanch in boiling water. 2. In another pot, mix soy sauce, mirin, sake, and sugar to make the braising sauce. 3. Add sliced ginger and green onion to the pot. 4. Add the blanched pork belly to the pot and let it simmer on low heat for several hours until the pork is tender. 5. Serve hot with rice.",
+    "rating": 4.8,
+    "chef_id": 6
+  },
+  {
+    "id": 20,
+    "recipe_name": "Nikujaga",
+    "thumbnail": "https://thumbs2.imgbox.com/0d/59/kve50cjE_t.png",
+    "ingredients": [
+      "500g beef",
+      "4 potatoes",
+      "2 onions",
+      "1 carrot",
+      "4 cups dashi",
+      "4 tbsp soy sauce",
+      "4 tbsp sake"
+    ],
+    "cooking_method": "1. Slice the onions, potatoes, and carrot. Cut the beef into small pieces. 2. In a pot, heat up dashi, soy sauce, and sake. Add the onions and beef, then the potatoes and carrot. 3. Simmer until the vegetables are cooked and the sauce is reduced. Serve hot.",
+    "rating": 4.8,
+    "chef_id": 6
+  },
+  {
+    "id": 21,
+    "recipe_name": "Karaage",
+    "thumbnail": "https://thumbs2.imgbox.com/3f/b2/UrEquKTR_t.png",
+    "ingredients": [
+      "500g boneless chicken thigh",
+      "1 tbsp soy sauce",
+      "1 tbsp sake",
+      "1 tbsp grated ginger",
+      "2 cloves garlic, grated",
+      "1 tbsp potato starch",
+      "1 tbsp cornstarch",
+      "vegetable oil for frying"
+    ],
+    "cooking_method": "1. Cut the chicken into bite-sized pieces. In a bowl, mix the chicken with soy sauce, sake, grated ginger, and garlic. 2. Add potato starch and cornstarch to the bowl, and mix well. 3. In a pot or deep fryer, heat up oil to 180°C. 4. Fry the chicken pieces until golden brown. Serve hot with lemon wedges.",
+    "rating": 4.6,
+    "chef_id": 6
+  }
+]

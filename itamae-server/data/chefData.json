@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://images2.imgbox.com/3e/22/NRv0V6m0_o.png",
+    "chef_name": "Toshiro Matsuda",
+    "description": "Toshiro Matsuda is a highly skilled Japanese chef with over a decade of experience, known for his expertly crafted dishes that blend traditional Japanese techniques with modern flavors. He has gained a strong following for his attention to detail and commitment to using only the highest quality ingredients.",
+    "years_of_experience": 12,
+    "num_recipes": 120,
+    "likes": 543
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://images2.imgbox.com/7a/41/BQEbhJJD_o.png",
+    "chef_name": "Kanae Yamamoto",
+    "description": "Kanae Yamamoto is a talented Japanese chef who has gained a reputation for her innovative approach to traditional Japanese cuisine, creating dishes that are both visually stunning and bursting with flavor. Her unique combinations of ingredients and techniques have earned her numerous accolades and a loyal following among food lovers.",
+    "years_of_experience": 8,
+    "num_recipes": 75,
+    "likes": 322
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://images2.imgbox.com/75/48/dMic8xFL_o.png",
+    "chef_name": "Ryohei Nakamura",
+    "description": "Ryohei Nakamura is a highly skilled and experienced Japanese chef who has spent his career mastering the art of traditional Japanese cuisine. With over 15 years of experience, he has developed a keen sense of taste and technique that he uses to create dishes that are both delicious and beautifully presented.",
+    "years_of_experience": 15,
+    "num_recipes": 220,
+    "likes": 981
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://images2.imgbox.com/14/23/TnrfrWb7_o.png",
+    "chef_name": "Sakura Tanaka",
+    "description": "Sakura Tanaka is a creative and talented Japanese chef who has made a name for herself by combining traditional Japanese techniques with modern flavors and ingredients. Her unique style and innovative approach to cooking have earned her a loyal following and numerous accolades in the culinary world.",
+    "years_of_experience": 10,
+    "num_recipes": 90,
+    "likes": 452
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://images2.imgbox.com/5a/ad/qlP6jIy3_o.png",
+    "chef_name": "Takashi Sato",
+    "description": "Takashi Sato is a highly respected Japanese chef who is known for his dedication to preserving traditional Japanese cuisine and ingredients. With nearly two decades of experience, he has honed his craft to create dishes that are both timeless and contemporary, earning him widespread recognition in the culinary community.",
+    "years_of_experience": 18,
+    "num_recipes": 300,
+    "likes": 1432
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://images2.imgbox.com/d0/76/O1wXIj5m_o.png",
+    "chef_name": "Makoto Nakamura",
+    "description": "Makoto Nakamura is a skilled and innovative Japanese chef who has made a name for himself by creating dishes that showcase the natural flavors and beauty of the ingredients. With over a decade of experience, he has become known for his ability to balance traditional Japanese techniques with modern culinary trends.",
+    "years_of_experience": 13,
+    "num_recipes": 150,
+    "likes": 621
+  }
+]
